@@ -58,3 +58,6 @@ repo = 'vim-jp/vim-go-extra'
 
 [[plugins]]
 repo = 'jelera/vim-javascript-syntax'
+
+[[plugins]]
+repo = 'rust-lang/rust.vim'
